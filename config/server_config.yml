@@ -1,0 +1,4 @@
+redis_addr: 127.0.0.1:6379
+mysql_addr: dev:dev123@tcp(192.168.0.155:3306)/games?charset=utf8mb4&parseTime=True&loc=Local
+lobby_addr: 127.0.0.1:3301
+niuniu_addr: 127.0.0.1:3401

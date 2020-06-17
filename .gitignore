@@ -1,0 +1,7 @@
+.idea
+go.sum
+*.swp
+*.log
+fish-server-tmp/fish-server-tmp
+./log/
+sshgit.sh
